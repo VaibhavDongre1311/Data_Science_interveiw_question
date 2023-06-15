@@ -1,4 +1,5 @@
-# Linear Regression Basic Interview Questions
+# Linear Regression Basic Interview Questions 
+# ANS. LINK(https://www.interviewbit.com/linear-regression-interview-questions/)
 1.  What is linear regression, and how does it work?
 2.  What are the assumptions of a linear regression model?
 3.  What are outliers? How do you detect and treat them? How do you deal with
